@@ -1,7 +1,1 @@
-[
-    {
-        "title":"avengers",
-        "category":"action",
-        "rating":"5 stars"
-    }
-]
+[{"id":"12tt17g4kskgwv9z","title":"Avengers","category":"Action","length":"2h:10m","rating":"5 stars","createdAt":"2021-08-20T14:48:38.231Z","updatedAt":"2021-08-20T14:48:38.231Z"},{"id":"12tt17g4kskgxdrh","title":"Iron man","category":"Action","length":"2h:10m","rating":"5 stars","createdAt":"2021-08-20T14:49:02.189Z","updatedAt":"2021-08-20T14:49:02.189Z"},{"id":"12tt17g4kskgxg21","title":"Iron man 2","category":"Action","length":"2h:10m","rating":"5 stars","createdAt":"2021-08-20T14:49:05.161Z","updatedAt":"2021-08-20T14:49:05.161Z"}]

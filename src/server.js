@@ -1,7 +1,7 @@
 import  express from "express";
 import listEndpoints from "express-list-endpoints";
 import cors from "cors"
-import moviesRouter from "./movies/movies.js";
+import moviesRouter from "./services/movies/movies.js";
 
 const server = express()
 
